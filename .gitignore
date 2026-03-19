@@ -1,0 +1,22 @@
+# Dependencias (NUNCA subir esto)
+node_modules/
+.pnpm-debug.log*
+
+# Compilación
+dist/
+dist-ssr/
+*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor (Opcional pero recomendado)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
